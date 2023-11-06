@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="https://monsieurbiz.com/logo.svg" alt="Logo Monsieur Biz" height="70px"/></p>
+<p align="center"><img src="https://monsieurbiz.com/logo.svg" alt="Logo Monsieur Biz" height="70px"/></p>
 
 [Monsieur Biz](https://monsieurbiz.com/) is a 🇫🇷 French web agency specialized in 🦢 Sylius, a powerful e-commerce framework.
 
